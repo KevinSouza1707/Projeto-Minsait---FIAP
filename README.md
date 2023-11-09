@@ -15,7 +15,7 @@
 
 <h3 align="left">Para se conectar com os intregrantes do projeto Agro Credit Connect:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/kevin-souza-alves-da-silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kevin-souza-alves-da-silva" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/gustavo-neves1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gustavo-neves1/" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/josivaldo-silva-3a025a12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/josivaldo-silva-3a025a12/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kevin-souza-alves-da-silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kevin-souza-alves-da-silva" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gustavo-neves1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gustavo-neves1/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/josivaldo-silva-3a025a12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/josivaldo-silva-3a025a12/" height="30" width="40" /></a>
 </p>

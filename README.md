@@ -13,7 +13,9 @@
 <img src= https://github.com/KevinSouza1707/Projeto-Minsait-FIAP/assets/126088739/48bdf861-459e-4426-b04c-7bc29754f159>
 </div>
 
-<h3 align="left">Para se conectar comigo:</h3>
+<h3 align="left">Para se conectar com os intregrantes do projeto Agro Credit Connect:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/kevin-souza-alves-da-silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kevin-souza-alves-da-silva" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kevin-souza-alves-da-silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kevin-souza-alves-da-silva" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gustavo-neves1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gustavo-neves1/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/josivaldo-silva-3a025a12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/josivaldo-silva-3a025a12/" height="30" width="40" /></a>
 </p>
